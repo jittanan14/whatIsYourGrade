@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="what">What is Your Grade</string>
+    <string name="enter">Enter your name and score</string>
+    <string name="name">Name</string>
+    <string name="score">Score</string>
+    <string name="find">FIND GRADE</string>
+    <string name="exit">EXIT</string>
+
+</resources>
